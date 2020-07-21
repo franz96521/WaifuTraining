@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">WaifuTraining</string>
+    <string name="push_up">Lagartijas</string>
+    <string name="sit_up">Abdominales</string>
+    <string name="squats">Sentadillas</string>
+    <string name="select_date">Seleccionar fecha</string>
+    <string name="train">train</string>
+    <string name="settings">settings</string>
+    <string name="statistics">statistics</string>
+    <string name="Select_date">Seleccionar fecha </string>
+    <string name="todayData">today data </string>
+    <string name="data_of">data of </string>
+
+    <!-- Activity Titles -->
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_train_home">TrainHome</string>
+    <string name="title_activity_modify_data">Modificar datos </string>
+
+    <!-- Preference Titles -->
+    <string name="general_settings">General</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="username">Your name </string>
+    <string name="age">Your age </string>
+    <string name="height_person">Your height </string>
+    <string name="weight_person">Your weight </string>
+    <string name="count_voice">contar en voz ALTA </string>
+
+</resources>
